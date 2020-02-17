@@ -1,0 +1,13 @@
+{
+    "type": "page",
+    "title": "NEWPAGE",
+    "space": {
+        "key": "Splunk"
+    },
+    "body": {
+        "storage": {
+            "value": "<p>This is a new page</p>",
+            "representation": "storage"
+        }
+    }
+}
